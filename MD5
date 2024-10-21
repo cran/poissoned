@@ -1,0 +1,16 @@
+d2e46f37aacc2e26ce70c01303672ebf *DESCRIPTION
+0839158ef079ee2e0680db6ed52cc404 *LICENSE
+36705ba6268b2a83cb7fdfcff796ec2a *NAMESPACE
+a60b4e85d2e650d1cfab3a05154d6497 *NEWS.md
+426a24d041699e84bbdbd8755794cd6c *R/aaa.R
+4f58b9ea9aeae8a033c96c9ff7e1e6de *R/poisson-baser.R
+e4352b5ca7b96152e16b6f94c9d4be6b *R/poisson.R
+85bd721912de75c503703e9e9b76eb01 *man/poisson2d.Rd
+3223984bfeadce87dfe2de20de93570c *man/poisson3d.Rd
+1a2196898f39baca601aef28f26f88f2 *src/Makevars
+65663f36d56a776fc02bfd3a12eab31a *src/init.c
+19c306bbea19caded78afad5a24978ac *src/poisson.c
+7513f34664f79ca334cbe2a7f33cddcd *src/utils.c
+2c1de8d6c2b8266657d40f28104df42b *src/utils.h
+8f1ca11d85e8e0bdfcc32db2e48a9281 *tests/testthat.R
+5c7ca0792ac4d7d52599378a8d06bc82 *tests/testthat/test-basic.R
